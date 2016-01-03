@@ -1,2 +1,2 @@
 # MainKit
-Main Kit for frontend development.
+## Main Kit for frontend development.
